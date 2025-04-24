@@ -59,8 +59,8 @@
 ![Screenshot 2024-12-13 075148](https://github.com/user-attachments/assets/6c6975ff-5aa9-45f8-a411-d57822a18847)
 
 
-### Name: Abheek .A
-### Register Number:24001418
+### Name: ARAVIND G
+### Register Number:212224240014
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
